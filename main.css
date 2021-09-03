@@ -1,0 +1,7 @@
+@media (prefers-color-scheme: dark) {
+    body {background-color: rgb(255, 145, 0);}
+  }
+
+  @media (prefers-color-scheme: light) {
+    body {background-color: rgb(72, 177, 219);}
+  }
